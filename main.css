@@ -1,0 +1,25 @@
+/*
+Team RRL (Lauren Chin, Roxie Gosfield, Rorie Taylor)     
+IntroCS pd7 sec11
+HW05 -- Stuylin'
+2021-02-11
+*/
+
+body {
+    background-color: #BBE6FE;
+	font-size: 20
+	color: #640081
+	;border-bottom: 2px solid #660098; border-top: 2px solid #660098; border-right: 2px solid #660098; border-left: 2px solid #660098;
+}
+
+h1 {
+	color: #660098
+}
+
+h2 {
+	color: #660098
+}
+
+a {
+	cursor: pointer;
+}
